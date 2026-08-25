@@ -1,4 +1,11 @@
 {
-  "v1":"https://www.fks2.com/v1",
-  "v2":"https://www.fks1.com/v1",
+  "apiBaseUrls": [
+    "https://api.aifukuri.com",
+    "https://api.aifukuri.club",
+    "https://api.aiflj6662232.com",
+    "https://api.aiflj2112312.com"
+  ],
+  "imServers": [
+    "wss://socket.aifukuri.com"
+  ]
 }
