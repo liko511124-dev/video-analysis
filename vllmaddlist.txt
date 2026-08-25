@@ -4,8 +4,6 @@
     "https://api.aifukuri.club",
     "https://api.aiflj6662232.com",
     "https://api.aiflj2112312.com"
-  ],
-  "imServers": [
-    "wss://socket.aifukuri.com"
   ]
+  
 }
