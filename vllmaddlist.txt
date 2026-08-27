@@ -1,6 +1,6 @@
 {
   "apiBaseUrls": [
-    "http://aifukuri-api.sjxgcjhdq.icu"
+    "https://api.aifuliji1.com",
+    "https://d2b9u70jt4xr5k.cloudfront.net"
   ]
-  
 }
