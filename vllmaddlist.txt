@@ -1,9 +1,6 @@
 {
   "apiBaseUrls": [
-    "https://api.aifukuri.com",
-    "https://api.aifukuri.club",
-    "https://api.aiflj6662232.com",
-    "https://api.aiflj2112312.com"
+    "aifukuri-api.sjxgcjhdq.icu"
   ]
   
 }
