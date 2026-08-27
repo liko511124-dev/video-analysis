@@ -1,6 +1,6 @@
 {
   "apiBaseUrls": [
-    "aifukuri-api.sjxgcjhdq.icu"
+    "http://aifukuri-api.sjxgcjhdq.icu"
   ]
   
 }
