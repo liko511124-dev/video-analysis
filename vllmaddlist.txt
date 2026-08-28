@@ -1,6 +1,6 @@
 {
   "apiBaseUrls": [
     "https://api.aifuliji1.com",
-    "https://d2b9u70jt4xr5k.cloudfront.net"
+    "https://d1rsj9a801ajhv.cloudfront.net"
   ]
 }
