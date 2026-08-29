@@ -2,5 +2,6 @@
   "apiBaseUrls": [
     "https://api.aifuliji1.com",
     "https://d1rsj9a801ajhv.cloudfront.net"
-  ]
+  ],
+ "imServers": ["wss://socket.aifukuri.com", "wss://d2q1nnta244cew.cloudfront.net"]
 }
