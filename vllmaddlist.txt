@@ -1,7 +1,9 @@
 {
   "apiBaseUrls": [
     "https://api.aifuliji.com",
-    "https://api.aifuliji1.com"
+    "https://api.aifuliji1.com",
+    "https://api.aiflj2112312.com",
+    "https://api.aiflj6662232.com"
   ],
  "imServers": ["wss://socket.aifukuri.com", "wss://d2q1nnta244cew.cloudfront.net"]
 }
