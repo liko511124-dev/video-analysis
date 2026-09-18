@@ -1,9 +1,7 @@
 {
   "apiBaseUrls": [
-    "https://api.aifukuri.club",
-    "https://api.aifukuri.com",
-    "https://d2b9u70jt4xr5k.cloudfront.net",
-    "https://d1rsj9a801ajhv.cloudfront.net"
+    "https://api.aifuliji.com",
+    "https://api.aifuliji1.com"
   ],
  "imServers": ["wss://socket.aifukuri.com", "wss://d2q1nnta244cew.cloudfront.net"]
 }
