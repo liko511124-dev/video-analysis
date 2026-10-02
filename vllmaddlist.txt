@@ -3,7 +3,11 @@
     "https://api.hgua.app",
     "https://api.hgua.io",
     "https://api.aiflj2112312.com",
-    "https://api.aiflj6662232.com"
-  ],
- "imServers": ["wss://socket.aifukuri.com", "wss://d2q1nnta244cew.cloudfront.net"]
+    "https://api.aiflj6662232.com",
+    "api.huangguaap021isda.com",
+    "api.huangguaap022isda.com",
+    "api.huangguaap023isda.com",
+    "api.huangguaap024isda.com",
+    "api.huangguaap025isda.com"
+  ]
 }
