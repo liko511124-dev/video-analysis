@@ -4,10 +4,10 @@
     "https://api.hgua.io",
     "https://api.aiflj2112312.com",
     "https://api.aiflj6662232.com",
-    "api.huangguaap021isda.com",
-    "api.huangguaap022isda.com",
-    "api.huangguaap023isda.com",
-    "api.huangguaap024isda.com",
-    "api.huangguaap025isda.com"
+    "https://api.huangguaap021isda.com",
+    "https://api.huangguaap022isda.com",
+    "https://api.huangguaap023isda.com",
+    "https://api.huangguaap024isda.com",
+    "https://api.huangguaap025isda.com"
   ]
 }
