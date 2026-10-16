@@ -1,13 +1,12 @@
 {
   "apiBaseUrls": [
-    "https://api.hgua.app",
-    "https://api.hgua.io",
-    "https://api.aiflj2112312.com",
-    "https://api.aiflj6662232.com",
     "https://api.huangguaap021isda.com",
     "https://api.huangguaap022isda.com",
     "https://api.huangguaap023isda.com",
     "https://api.huangguaap024isda.com",
-    "https://api.huangguaap025isda.com"
+    "https://api.huangguaap025isda.com",
+    "https://api.huangguaap026isda.com",
+    "https://api.huangguaap027isda.com",
+    "https://api.huangguaap028isda.com"
   ]
 }
