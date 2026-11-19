@@ -1,0 +1,8 @@
+{
+  "apiBaseUrls": [
+    "https://api.museappawsloada.cc",
+    "https://api.museappawscanp.cc",
+    "https://api.museappawsloada.com",
+    "https://api.museappawscanp.com"
+  ]
+}
