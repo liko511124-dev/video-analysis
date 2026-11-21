@@ -3,6 +3,10 @@
     "https://api.museappawsloada.cc",
     "https://api.museappawscanp.cc",
     "https://api.museappawsloada.com",
-    "https://api.museappawscanp.com"
+    "https://api.museappawscanp.com",
+    "https://api.museappcfloada.com",
+    "https://api.museappcfloada.cc",
+    "https://api.museappcfcanp.com",
+    "https://api.museappcfcanp.cc"
   ]
 }
