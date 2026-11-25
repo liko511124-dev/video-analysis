@@ -1,7 +1,7 @@
 {
   "apiBaseUrls": [
-    "https://api.huangguaap021isda.com",
-    "https://api.huangguaap022isda.com",
+    "https://api.hgapilocal.cc",
+    "https://api.hgapilocal.xyz",
     "https://api.huangguaap023isda.com",
     "https://api.huangguaap024isda.com",
     "https://api.huangguaap025isda.com",
